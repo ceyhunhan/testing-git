@@ -14,5 +14,7 @@
 
 <div id="main_content"></div>
 
+<div id="footer"></div>
+
 </body>
 </html>
