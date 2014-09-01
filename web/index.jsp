@@ -14,6 +14,10 @@
 
 <div id="main_content"></div>
 
+<div id="changes">
+    <p>Trying to create a new branch when sth is changed on local</p>
+</div>
+
 <div id="footer"></div>
 
 </body>
