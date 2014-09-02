@@ -18,6 +18,10 @@
     <p>Trying to create a new branch when sth is changed on local</p>
 </div>
 
+<div id="change-001">
+    <p>Will try resetting</p>
+</div>
+
 <div id="footer"></div>
 
 </body>
